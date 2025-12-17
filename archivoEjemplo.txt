@@ -1,0 +1,2 @@
+Instructivo para verificar el comportamiento
+de la herramienta git
