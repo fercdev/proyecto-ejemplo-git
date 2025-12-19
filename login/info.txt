@@ -1,1 +1,3 @@
 informacion de mi nuevo feature, llamado login
+
+Se esta modificando el alcance de login por un bug inesperado en la pantalla
